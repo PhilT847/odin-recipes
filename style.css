@@ -1,5 +1,16 @@
 /* style.css */
 
+body {
+
+    font-family: 'Verdana', sans-serif;
+}
+
+button.recipe {
+
+    width: 300;
+    height: 400;
+}
+
 .main-header {
 
     font-size: 48px;
@@ -10,4 +21,11 @@
 
     color: white;
     background-color: rgb(125, 150, 140);
+}
+
+#return-home {
+
+    color: blue;
+    font-size: 36px;
+    font-weight: 600;
 }
