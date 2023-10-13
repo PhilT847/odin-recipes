@@ -5,10 +5,10 @@ body {
     font-family: 'Verdana', sans-serif;
 }
 
-button.recipe {
+.recipe {
 
-    width: 300;
-    height: 400;
+    font-size: 48px;
+    background-color: rgb(150, 125, 140);
 }
 
 .main-header {
